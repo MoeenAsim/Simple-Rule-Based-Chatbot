@@ -58,9 +58,3 @@ Bot: I am fine. Thanks for asking.
 
 You: bye
 Bot: Goodbye!
-Project Structure
-simple-chatbot/
-│
-├── chatbot.py
-├── README.md
-└── chat_history.txt
